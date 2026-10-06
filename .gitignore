@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Gradio's local cache and temp files
+.gradio/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Secrets (API keys, tokens)
+.env
+
+# Editor settings (optional)
+.vscode/
